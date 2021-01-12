@@ -19,7 +19,8 @@ Example: `python3 boost.py data/volcanoes/volcanoes 0 nbayes 30`
 will use 5-fold cross validation to train and evaluate an ensemble naive Bayes classifier, boosted for 30 iterations, on the volcanoes dataset.
 
 ### Summary Results
-Full results can be viewed in Jupyter notebook included in this repository.
+Full results can be viewed in Jupyter notebook included in this repository.  
+[Jupyter Notebook](notebook.ipynb)
 
 Cross-Validated Accuracy of Decision Tree Classifier:
 |  | Volcanoes | Spam |
